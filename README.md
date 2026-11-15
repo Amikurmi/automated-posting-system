@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automated Multi-Platform Posting System
 
 An automated social media posting system built using **Python, FastAPI, and HTTPX**. It allows users to publish a single message across five different platforms through one API endpoint.
@@ -226,3 +227,7 @@ GitHub: https://github.com/Amikurmi
 ## License
 
 This project is developed as part of a technical assignment.
+=======
+# automated-posting-system
+Automated Multi-Platform Posting System using Python and FastAPI.
+>>>>>>> f605c09abc555ffb87c6cc114798a44dbf20a891
